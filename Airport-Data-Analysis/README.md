@@ -1,6 +1,6 @@
-# adara2-anikp2-rohani2-abhijit3
+# Abhi Chebiyam
 
-# What our progam does:
+# What the progam does:
 Our program implements 3 algorithms to analyze our airport data set:
     1) BFS: This traversal reveals the total number of connections each airport has. 
     2) Dijkstra's: This algorithm will display all possible routes that one airport has to every other aiport.
